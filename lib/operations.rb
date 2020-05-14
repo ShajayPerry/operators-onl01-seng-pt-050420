@@ -5,11 +5,11 @@ else
  return false
 end
 if speed < 40 
-  return false
+  return true 
 else 
-  return true
+  return false 
 end 
-if speed < 40
+if speed < 40 ("or") > 60
   return true
 else
   return false 
