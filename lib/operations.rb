@@ -1,5 +1,5 @@
 def unsafe?(speed)
-if speed < 40 "o
+if speed > 60 
 end
 
 
