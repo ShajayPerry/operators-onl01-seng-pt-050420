@@ -9,7 +9,7 @@ if speed < 40
 else 
   return false 
 end 
-if speed < 40 ( > 60
+if speed < 40 ("double-pipe") > 60
   return true
 else
   return false 
